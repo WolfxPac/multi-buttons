@@ -6,12 +6,12 @@
  */
 
 #define input A0
-#define LED1 13
-#define LED2 12
-#define LED3 11
-#define LED4 10
-#define LED5 9
-#define LED6 8
+#define LED1 7
+#define LED2 6
+#define LED3 5
+#define LED4 4
+#define LED5 3
+#define LED6 2
 
 bool flag1, flag2, flag3, flag4, flag5, flag6 = 0;
 
